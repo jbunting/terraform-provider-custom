@@ -1,4 +1,4 @@
-module github.com/nazarewk-iac/terraform-provider-custom
+module github.com/jbunting/terraform-provider-custom
 
 go 1.20
 

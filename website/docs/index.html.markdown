@@ -6,15 +6,17 @@ description: |-
   Escape hatch for defining Terraform 0.13+ resources with arbitrary commands in as unopinionated and universal way as possible.
 ---
 
+...a fork of [nazarewk-iac/custom](https://registry.terraform.io/providers/nazarewk-iac)...
+
 # Custom provider
 
 Escape hatch for defining Terraform 0.13+ resources with arbitrary commands in as unopinionated and universal way as possible.
 
-Distributed through Terraform Registry at [nazarewk-iac/custom](https://registry.terraform.io/providers/nazarewk-iac/custom/latest)
+Distributed through Terraform Registry at [jbunting/custom](https://registry.terraform.io/providers/jbunting/custom/latest)
 
-See the Terraform Registry's [Documentation tab](https://registry.terraform.io/providers/nazarewk-iac/custom/latest/docs)
+See the Terraform Registry's [Documentation tab](https://registry.terraform.io/providers/jbunting/custom/latest/docs)
 
-Source code available at [github.com/nazarewk-iac/terraform-provider-custom](https://github.com/nazarewk-iac/terraform-provider-custom)
+Source code available at [github.com/jbunting/terraform-provider-custom](https://github.com/jbunting/terraform-provider-custom)
 
 ## Provider design
 
